@@ -1,0 +1,21 @@
+name: digichem
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - rdkit
+  - numpy
+  - matplotlib
+  - pandas
+  - networkx
+  - ca-certificates
+  - openssl
+  - jupyter
+  - certifi
+  - anaconda::scikit-learn
+  - anaconda::seaborn
+  - conda-forge::ase
+  - sktime
+prefix: /home/carom/anaconda3/envs/digichem
