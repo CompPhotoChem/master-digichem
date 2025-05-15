@@ -19,5 +19,5 @@ Download the requirements.txt, navigate to the folder of that file, activate you
 ```
 cd #your_path
 conda activate digichem
-pip install requirements.txt
+pip install numpy pandas rdkit seaborn scikit-learn jupyter
 ```
